@@ -1,0 +1,7 @@
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\bin\Debug\StaticMathod.exe.config
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\bin\Debug\StaticMathod.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\bin\Debug\StaticMathod.pdb
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\obj\Debug\StaticMathod.csproj.AssemblyReference.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\obj\Debug\StaticMathod.csproj.CoreCompileInputs.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\obj\Debug\StaticMathod.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\StaticMathod\StaticMathod\obj\Debug\StaticMathod.pdb
